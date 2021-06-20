@@ -7,6 +7,7 @@
 
 **Notes:**
 In order to run the script:
+- Create developer account on aWhere.com
 - Download the necessary requirements
 - Download _coordinates.csv_
 - Run python3 fetch-weather-data.py -k [ENTER_KEY] -s [ENTER_SECRET] -i [FILEPATH/coordinates.csv] in terminal
